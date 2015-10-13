@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Toad()
+comment1.params=givenSize
+comment1.target=Toad(int)
+comment2.params=givenSize\ givenNumWarts
+comment2.target=Toad(int,\ int)
+comment3.params=givenSize
+comment3.target=void\ setSize(int)
+comment4.params=
+comment4.target=int\ getSize()
+comment5.params=givenWarts
+comment5.target=void\ setWarts(int)
+comment6.params=
+comment6.target=int\ getWarts()
+numComments=7
