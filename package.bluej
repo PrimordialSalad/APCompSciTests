@@ -15,18 +15,11 @@ dependency5.from=CarTestDriver
 dependency5.to=Car
 dependency5.type=UsesDependency
 objectbench.height=100
-<<<<<<< HEAD
-objectbench.width=1542
-package.editor.height=893
-package.editor.width=1721
-package.editor.x=53
-=======
 objectbench.width=1260
 package.editor.height=613
-package.editor.width=1134
-package.editor.x=0
->>>>>>> a91937370a65e823e5862e06d60f6d77c9845d63
-package.editor.y=24
+package.editor.width=1439
+package.editor.x=73
+package.editor.y=44
 package.numDependencies=5
 package.numTargets=32
 package.showExtends=true
@@ -71,27 +64,6 @@ target11.typeParameters=
 target11.width=120
 target11.x=220
 target11.y=10
-<<<<<<< HEAD
-target12.editor.height=1028
-target12.editor.width=1280
-target12.editor.x=1920
-target12.editor.y=-4
-target12.height=50
-target12.name=ToadTestDriver
-target12.naviview.expanded=false
-target12.showInterface=false
-target12.type=ClassTarget
-target12.typeParameters=
-target12.width=130
-target12.x=570
-target12.y=60
-target13.editor.height=700
-target13.editor.width=900
-target13.editor.x=683
-target13.editor.y=361
-target13.height=50
-target13.name=VariableDeclaration
-=======
 target12.editor.height=700
 target12.editor.width=900
 target12.editor.x=91
@@ -111,59 +83,52 @@ target13.editor.x=40
 target13.editor.y=52
 target13.height=50
 target13.name=NikkiBrettBilly
->>>>>>> a91937370a65e823e5862e06d60f6d77c9845d63
 target13.naviview.expanded=true
 target13.showInterface=false
 target13.type=ClassTarget
 target13.typeParameters=
-<<<<<<< HEAD
-target13.width=170
-target13.x=10
-target13.y=250
-=======
 target13.width=130
 target13.x=550
 target13.y=420
->>>>>>> a91937370a65e823e5862e06d60f6d77c9845d63
 target14.editor.height=700
 target14.editor.width=900
-target14.editor.x=683
-target14.editor.y=361
+target14.editor.x=836
+target14.editor.y=299
 target14.height=50
-target14.name=VariableDeclaration
+target14.name=DistanceCalc
 target14.naviview.expanded=true
 target14.showInterface=false
 target14.type=ClassTarget
 target14.typeParameters=
-target14.width=170
-target14.x=10
-target14.y=250
-target15.editor.height=700
-target15.editor.width=900
-target15.editor.x=836
-target15.editor.y=299
+target14.width=120
+target14.x=360
+target14.y=10
+target15.editor.height=1028
+target15.editor.width=1280
+target15.editor.x=1920
+target15.editor.y=-4
 target15.height=50
-target15.name=DistanceCalc
-target15.naviview.expanded=true
+target15.name=ToadTestDriver
+target15.naviview.expanded=false
 target15.showInterface=false
 target15.type=ClassTarget
 target15.typeParameters=
-target15.width=120
-target15.x=360
-target15.y=10
-target16.editor.height=1028
-target16.editor.width=1280
-target16.editor.x=1920
-target16.editor.y=-4
+target15.width=130
+target15.x=570
+target15.y=60
+target16.editor.height=700
+target16.editor.width=900
+target16.editor.x=683
+target16.editor.y=361
 target16.height=50
-target16.name=ToadTestDriver
-target16.naviview.expanded=false
+target16.name=VariableDeclaration
+target16.naviview.expanded=true
 target16.showInterface=false
 target16.type=ClassTarget
 target16.typeParameters=
-target16.width=130
-target16.x=570
-target16.y=60
+target16.width=170
+target16.x=10
+target16.y=250
 target17.editor.height=700
 target17.editor.width=900
 target17.editor.x=91
@@ -192,30 +157,17 @@ target18.x=180
 target18.y=130
 target19.editor.height=700
 target19.editor.width=900
-<<<<<<< HEAD
-target19.editor.x=346
-target19.editor.y=100
-target19.height=50
-target19.name=FibonacciSequenceTest
-=======
 target19.editor.x=839
 target19.editor.y=268
 target19.height=50
 target19.name=DogClass
->>>>>>> a91937370a65e823e5862e06d60f6d77c9845d63
 target19.naviview.expanded=true
 target19.showInterface=false
 target19.type=ClassTarget
 target19.typeParameters=
-<<<<<<< HEAD
-target19.width=190
-target19.x=360
-target19.y=190
-=======
 target19.width=90
 target19.x=290
 target19.y=70
->>>>>>> a91937370a65e823e5862e06d60f6d77c9845d63
 target2.editor.height=700
 target2.editor.width=900
 target2.editor.x=71
@@ -234,21 +186,13 @@ target20.editor.width=900
 target20.editor.x=680
 target20.editor.y=408
 target20.height=50
-<<<<<<< HEAD
-target20.name=SourceFile1
-=======
 target20.name=SourceFile3
->>>>>>> a91937370a65e823e5862e06d60f6d77c9845d63
 target20.naviview.expanded=true
 target20.showInterface=false
 target20.type=ClassTarget
 target20.typeParameters=
 target20.width=110
-<<<<<<< HEAD
-target20.x=10
-=======
 target20.x=250
->>>>>>> a91937370a65e823e5862e06d60f6d77c9845d63
 target20.y=310
 target21.editor.height=700
 target21.editor.width=900
@@ -265,49 +209,34 @@ target21.x=130
 target21.y=310
 target22.editor.height=700
 target22.editor.width=900
-<<<<<<< HEAD
-target22.editor.x=380
-target22.editor.y=24
-=======
-target22.editor.x=680
-target22.editor.y=408
->>>>>>> a91937370a65e823e5862e06d60f6d77c9845d63
+target22.editor.x=346
+target22.editor.y=100
 target22.height=50
-target22.name=SourceFile1
+target22.name=FibonacciSequenceTest
 target22.naviview.expanded=true
 target22.showInterface=false
 target22.type=ClassTarget
 target22.typeParameters=
-target22.width=110
-target22.x=10
-target22.y=310
+target22.width=190
+target22.x=360
+target22.y=190
 target23.editor.height=700
 target23.editor.width=900
-target23.editor.x=346
-target23.editor.y=100
+target23.editor.x=680
+target23.editor.y=408
 target23.height=50
-target23.name=FibonacciSequenceTest
+target23.name=SourceFile1
 target23.naviview.expanded=true
 target23.showInterface=false
 target23.type=ClassTarget
 target23.typeParameters=
-<<<<<<< HEAD
-target23.width=250
+target23.width=110
 target23.x=10
-target23.y=370
-target24.editor.height=1000
-target24.editor.width=1280
-target24.editor.x=640
-target24.editor.y=52
-=======
-target23.width=190
-target23.x=360
-target23.y=190
+target23.y=310
 target24.editor.height=700
 target24.editor.width=900
 target24.editor.x=836
 target24.editor.y=271
->>>>>>> a91937370a65e823e5862e06d60f6d77c9845d63
 target24.height=50
 target24.name=LG1
 target24.naviview.expanded=true
@@ -475,13 +404,8 @@ target6.x=430
 target6.y=370
 target7.editor.height=700
 target7.editor.width=900
-<<<<<<< HEAD
-target7.editor.x=310
-target7.editor.y=128
-=======
 target7.editor.x=843
 target7.editor.y=228
->>>>>>> a91937370a65e823e5862e06d60f6d77c9845d63
 target7.height=50
 target7.name=SpecialDeeBlock
 target7.naviview.expanded=false
